@@ -1,2 +1,3 @@
-# Gradient-Descent---Combined-Cycle-Power-Plant-Regression-Algorithm-
-Code of Gradient Descent for N features and come with predictions.(Linear Regression)
+# Linear Regression
+
+Gradient-Descent on "Combined-Cycle-Power-Plant" Dataset and applying Regression algorithm for making predictions.
